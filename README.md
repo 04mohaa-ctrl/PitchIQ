@@ -1,4 +1,4 @@
-# ⚽ Football Scout AI
+# ⚽ PitchIQ
 
 A football analytics and scouting platform built with Python and machine learning.
 
